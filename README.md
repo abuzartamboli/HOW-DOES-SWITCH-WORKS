@@ -18,6 +18,9 @@
 # This is how the switch works
 
 
+
+
+
 # CONCLUSION:-
 # This project helped me understand how a network switch works in a Local Area Network (LAN). A switch learns the MAC addresses of connected devices and stores them in its MAC Address Table. When a data frame arrives, the switch checks the destination MAC address and forwards the frame only through the appropriate port.
 
